@@ -1,3 +1,90 @@
 ﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
   FlightBookingSystem.c
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(85,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(89,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(97,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(99,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(101,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(103,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(105,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(107,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(109,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(111,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(82,14): warning C4101: “m”: 未引用的局部变量
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(82,10): warning C4101: “k”: 未引用的局部变量
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(83,10): warning C4101: “s”: 未引用的局部变量
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(82,18): warning C4101: “j”: 未引用的局部变量
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(82,16): warning C4101: “w”: 未引用的局部变量
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(137,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(139,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(161,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(167,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(169,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(171,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(173,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(175,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(181,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(182,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(183,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(185,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(158,9): warning C4101: “s”: 未引用的局部变量
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(206,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(208,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(229,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(234,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(235,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(236,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(238,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(277,13): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(251,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(267,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(269,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(271,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(273,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(275,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(277,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(279,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(281,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(249,10): warning C4101: “j”: 未引用的局部变量
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(296,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\张莉\Desktop\仓库\FlightBookingSystem\FlightBookingSystem.c(287,8): warning C4101: “i”: 未引用的局部变量
   FlightBookingSystem.vcxproj -> C:\Users\张莉\Desktop\仓库\FlightBookingSystem\Debug\FlightBookingSystem.exe
